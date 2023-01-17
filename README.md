@@ -1,5 +1,5 @@
 ### Let's Play Piano :notes:
 
-HTML, CSS and Javascript
+**The tools are HTML, CSS & Javascript, and it looks like:**
 
-![piano-image](https://user-images.githubusercontent.com/13468728/212978939-45fab8ed-3550-49fe-b2d6-8abe4adf0fc0.jpg)
+![piano-image-1](https://user-images.githubusercontent.com/13468728/212982117-1cca6ef9-bdd0-4491-84a5-427747cecbbf.jpg)
