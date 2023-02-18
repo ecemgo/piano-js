@@ -1,7 +1,12 @@
 ### Let's Play Piano :notes:
 
-**You can play piano with this app and this is what it looks like:**
+- It is made by using HTML, CSS and Javascript.
+- The background of the piano was created via the linear gradient.
+- You can play piano from [here](https://ecemgo-piano-js.netlify.app). :grinning:
 
-_The tools are HTML, CSS & Javascript._
 
-![piano-image-1](https://user-images.githubusercontent.com/13468728/212982117-1cca6ef9-bdd0-4491-84a5-427747cecbbf.jpg)
+#### Screenshot
+<p align="left">
+<img src="https://user-images.githubusercontent.com/13468728/212982117-1cca6ef9-bdd0-4491-84a5-427747cecbbf.jpg" title="HTML5" alt="HTML5" width="550" height="400"/>
+</p>
+
