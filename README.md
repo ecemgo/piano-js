@@ -4,9 +4,10 @@
 - The background of the piano was created via the linear gradient.
 - You can play piano from [here](https://ecemgo-piano-js.netlify.app). :grinning:
 
+<br>
 
-#### Screenshot
+## Screenshot
 <p align="left">
-<img src="https://user-images.githubusercontent.com/13468728/212982117-1cca6ef9-bdd0-4491-84a5-427747cecbbf.jpg" title="HTML5" alt="HTML5" width="550" height="400"/>
+<img src="https://user-images.githubusercontent.com/13468728/219885350-770b2b43-1d37-47ba-b0fd-ddc8dd6f586e.jpg" title="HTML5" alt="HTML5" width="700" height="400"/>
 </p>
 
